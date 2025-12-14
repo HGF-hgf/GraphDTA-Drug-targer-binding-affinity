@@ -93,7 +93,7 @@ pip install streamlit pandas numpy networkx Pillow
 
 ---
 
-## 🚀 Hướng dẫn chạy
+## Huấn luyện mô hình
 
 ### 🔹 Bước 1: Chuẩn bị dữ liệu
 
