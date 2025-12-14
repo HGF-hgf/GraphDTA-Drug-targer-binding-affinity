@@ -26,6 +26,7 @@ Repository bao gồm mã nguồn và dữ liệu cần thiết để:
 ├── create_data.py
 ├── training.py
 ├── frontend.py
+├── GraphDTA.ipynb
 ├── utils.py
 └── README.md
 ```
@@ -50,6 +51,9 @@ Repository bao gồm mã nguồn và dữ liệu cần thiết để:
 
 - **`frontend.py`**  
   Ứng dụng web (Streamlit) để test và trực quan hóa mô hình
+
+- **`GraphDTA.ipynb`**
+  Notebook được config phù hợp để huẩn luyện mô hình trên kaggle sử dụng GPU
 
 - **`utils.py`**  
   Các hàm hỗ trợ:
