@@ -33,11 +33,9 @@ Repository bao gồm mã nguồn và dữ liệu cần thiết để:
 ### 📁 Mô tả các thành phần chính
 
 - **`models/`**  
-  Chứa định nghĩa các mô hình GNN:
+  Chứa định nghĩa mô hình GNN:
   - `GINConvNet`
-  - `GATNet`
-  - `GAT_GCN`
-  - `GCNNet`
+
 
 - **`data/`**  
   Chứa hai bộ dữ liệu benchmark chuẩn:
